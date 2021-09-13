@@ -4,10 +4,7 @@ In 2010 I used a tax return to build my first custom built computer. I started t
 
 Since joining the team at Suavecito, I have played a variety of different roles in the growth of the company. I currently lead the team that creates content for and maintains Suavecito's websites and social media accounts, manage digital ad campaigns, oversee the IT department, and still play a very hands on role in developing new web applications.
 
-Leading by example > Micromanaging
-
-- 🔭 I’m currently working on migrating from traditional Shopify sites to headless Shopify sites
-- 🌱 I’m currently learning GatsbyJs & Sanity.io
-- 👯‍♂️ I’m looking to collaborate on Notsuite.com
+- 💪 Currently working on Riveting.agency
+- 🤝 Many hands make light work 👊🤘
 - 📫 How to reach me: hey@ken.dev
 - 🐕 Fun fact: I have 3 dogs, 1 German Shepherd and 2 pugs
